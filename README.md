@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @niklasp
 - 👀 I’m interested in frontend dev, blockchain, big data criticism
-- 🌱 I’m currently learning threejs
-- 💞️ I’m looking to collaborate on threejs
+- 🌱 I’m currently working with threejs, nextjs
+- 💞️ I’m looking to collaborate on something outstanding for society
 - 📫 How to reach me niklas@eedee.net
 
 <!---
