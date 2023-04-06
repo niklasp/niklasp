@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @niklasp
 - 👀 I’m interested in frontend dev, blockchain, big data criticism
-- 🌱 I’m currently working with threejs, nextjs
+- 🌱 I’m currently working with threejs, react, nextjs, rust
 - 💞️ I’m looking to collaborate on something outstanding for society
+- 👨‍🎓 I attended the Polkadot Blockchain 2023 in Buenos Aires
 - 📫 How to reach me niklas@eedee.net
 
 <!---
