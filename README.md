@@ -5,7 +5,11 @@
 - 👨‍🎓 I graduated at the Polkadot Blockchain 2023 in Buenos Aires
 - 📫 How to reach me niklas@eedee.net
 
-<!---
-niklasp/niklasp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://commit-history.com/niklasp">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/niklasp?theme=dark" />
+      <img alt="niklasp's commit history" src="https://commit-history.com/embed/niklasp" />
+    </picture>
+  </a>
+</div>
